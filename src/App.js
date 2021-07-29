@@ -1,7 +1,8 @@
 import React from 'react';
+import Routes from './routes/routes';
 
 function App() {
-  return <p>Projeto League of Legends</p>;
+  return <Routes />;
 }
 
 export default App;

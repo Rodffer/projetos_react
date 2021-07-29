@@ -1,2 +1,3 @@
-# league_of_legends
-replica login cliente do lol
+# projetos React
+cada branch um projeto
+branch com projeto em branco -> projeto-padrao
